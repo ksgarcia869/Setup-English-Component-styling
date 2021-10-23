@@ -1,4 +1,4 @@
-.English {
+.English{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     background-color: lightcyan;
@@ -6,6 +6,7 @@
     padding-right: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
+    align-content: center;
 }
 
 .Head-Title {
